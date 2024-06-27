@@ -1,0 +1,26 @@
+LSTM
+    python main.py --model_name LSTM --angle_idx 0 --num_layers 6
+    python main.py --model_name LSTM --angle_idx 0 --num_layers 12
+    python main.py --model_name LSTM --angle_idx 0 --num_layers 18
+    python main.py --model_name LSTM --angle_idx 1 --num_layers 6
+    python main.py --model_name LSTM --angle_idx 1 --num_layers 12
+    python main.py --model_name LSTM --angle_idx 1 --num_layers 18
+    python main.py --model_name LSTM --angle_idx 2 --num_layers 6
+    python main.py --model_name LSTM --angle_idx 2 --num_layers 12
+    python main.py --model_name LSTM --angle_idx 2 --num_layers 18
+    python main.py --model_name LSTM --angle_idx 3 --num_layers 6 
+    python main.py --model_name LSTM --angle_idx 3 --num_layers 12
+    python main.py --model_name LSTM --angle_idx 3 --num_layers 18
+Transformer
+    python main.py --model_name Transformer --angle_idx 0 --num_layers 6
+    python main.py --model_name Transformer --angle_idx 0 --num_layers 12
+    python main.py --model_name Transformer --angle_idx 0 --num_layers 18
+    python main.py --model_name Transformer --angle_idx 1 --num_layers 6
+    python main.py --model_name Transformer --angle_idx 1 --num_layers 12
+    python main.py --model_name Transformer --angle_idx 1 --num_layers 18
+    python main.py --model_name Transformer --angle_idx 2 --num_layers 6
+    python main.py --model_name Transformer --angle_idx 2 --num_layers 12
+    python main.py --model_name Transformer --angle_idx 2 --num_layers 18
+    python main.py --model_name Transformer --angle_idx 3 --num_layers 6
+    python main.py --model_name Transformer --angle_idx 3 --num_layers 12
+    python main.py --model_name Transformer --angle_idx 3 --num_layers 18
